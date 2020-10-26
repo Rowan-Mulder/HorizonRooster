@@ -2,20 +2,18 @@
 *Laad automatisch jouw eenmalig geselecteerde Horizon College rooster.*
 
 ![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
+![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)
+
+<kbd>
+  Testje met kbd
+</kbd>
 
 <table>
-  <thead>
-  </thead>
   <tbody>
     <tr>
       <td>
-![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
+        <img src="https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png" alt="Screenshot van het resultaat">
       </td>
-      <td>![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)</td>
-    </tr>
-    <tr>
-      <td>Testje3</td>
-      <td>Testje4</td>
     </tr>
   </tbody>
 </table>
