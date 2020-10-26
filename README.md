@@ -16,7 +16,7 @@
         Jouw automatisch geladen rooster
       </td>
       <td>
-        Het eenmalige formulier (opmaak wordt nog aan gewerkt)
+        Het eenmalige formulier (Opmaak wordt nog aan gewerkt)
       </td>
     </tr>
   </tbody>
@@ -26,8 +26,9 @@
 ---
 
 ## TO-DO:
-- Optie toevoegen om het geselecteerde rooster (wat opgeslagen wordt in een cookie) te verwijderen om een andere rooster te kiezen
+- Optie toevoegen om het geselecteerde rooster (Wat opgeslagen wordt in een cookie) te verwijderen om een andere rooster te kiezen
 - CSS opmaak van het formulier (Bootstrap met o.a. selectpicker?)
+- roosterFormulier.php omzetten naar .html (Anders ziet Github het als een 'hack')
 - Oplossen van alle 404's
   - Toon voorlopig een custom melding als een rooster niet beschikbaar is
   - Probeer onjuiste oude roosters, die met hetzelfde roosternummer niet hetzelfde rooster laten zien, voorlopig te verbergen
