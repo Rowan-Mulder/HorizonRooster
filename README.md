@@ -1,6 +1,8 @@
 # HorizonRooster
 *Laad automatisch jouw eenmalig geselecteerde Horizon College rooster.*
 
+![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
+
 <table>
   <thead>
   </thead>
