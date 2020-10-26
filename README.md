@@ -1,18 +1,13 @@
 # HorizonRooster
 *Laad automatisch jouw eenmalig geselecteerde Horizon College rooster.*
-<div style="border: 5px solid black">
-  ![Screenshot van het resultaat]("https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png")
-</div>
-<div style="border: 5px solid black">
-  ![Screenshot van het formulier]("https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png")
-</div>
+
 <table>
   <thead>
   </thead>
   <tbody>
     <tr>
-      <td>Testje1</td>
-      <td>Testje2</td>
+      <td>![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)</td>
+      <td>![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)</td>
     </tr>
     <tr>
       <td>Testje3</td>
