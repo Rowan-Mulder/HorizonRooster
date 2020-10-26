@@ -8,7 +8,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)</td>
+      <td>
+![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
+      </td>
       <td>![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)</td>
     </tr>
     <tr>
