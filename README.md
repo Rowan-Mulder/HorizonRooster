@@ -1,7 +1,7 @@
 # HorizonRooster
 *Laad automatisch jouw eenmalig geselecteerde Horizon College rooster.*
-![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/master/Github%20bestanden/Screenshots/Screenshot1.png)
-![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/master/Github%20bestanden/Screenshots/Screenshot2.png)
+![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
+![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)
 
 <br><br><br>
 ---
