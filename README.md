@@ -26,7 +26,9 @@
 ---
 
 ## TO-DO:
-- Optie toevoegen om het geselecteerde rooster (Wat opgeslagen wordt in een cookie) te verwijderen om een andere rooster te kiezen
+- Toevoegen van opties (Misschien binnen een dropdown menu)
+  - Optie toevoegen om het geselecteerde rooster (Wat opgeslagen wordt in een cookie) te verwijderen om een andere rooster te kiezen
+  - Optie toevoegen om een rooster op te slaan als favoriet
 - CSS opmaak van het formulier (Bootstrap met o.a. selectpicker?)
 - roosterFormulier.php omzetten naar .html (Anders ziet Github het als een 'hack')
 - Oplossen van alle 404's
