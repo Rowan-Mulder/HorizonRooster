@@ -4,8 +4,14 @@
 ![Screenshot van het resultaat](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png)
 ![Screenshot van het formulier](https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png)
 
+<style>
+  table {
+    border: 10px solid black;
+  }
+</style>
+
 <kbd>
-  Testje met kbd
+  <img src="https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png" alt="Screenshot van het resultaat">
 </kbd>
 
 <table>
@@ -13,6 +19,17 @@
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot1.png" alt="Screenshot van het resultaat">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Rowan-Mulder/HorizonRooster/main/Github%20bestanden/Screenshots/Screenshot2.png" alt="Screenshot van het formulier">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Jouw automatisch geladen rooster
+      </td>
+      <td>
+        Het eenmalige formulier (opmaak wordt nog aan gewerkt)
       </td>
     </tr>
   </tbody>
