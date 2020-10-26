@@ -1,0 +1,69 @@
+body {
+	font-family: Rubik, Arial;
+	margin: 0;
+	/*overflow: hidden;*/
+}
+main {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+#actionMenu {
+	display: flex;
+	justify-content: space-between;
+	height: 10vh;
+	width: 100%;
+	background-color: #ADD8E6;
+}
+	#actionMenu>input {
+		color: #FFF;
+		background-color: #05A;
+		border: 0.5vh outset #FFF;
+		border-radius: 1vh;
+		font-size: 1.6vh;
+		font-weight: bold;
+	}
+	#imageSpan {
+		top: 0;
+		left: 50%;
+		width: 20vh;
+		height: 100%;
+	}
+		#imageHC {
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-image: url("images/Logo.png");
+			background-size: 100% 100%;
+			z-index: 1;
+			display: block;
+		}
+	
+	/*Haalt selectie kleur voor afbeeldingen weg*/
+	img::-moz-selection {
+	}
+
+	#actionMenu>input:hover {
+		background-color: #00F;
+		border: 0.5vh inset #FFF;
+		transition: 0.2s;
+	}
+
+
+#embeddedWebpage {
+	position: absolute;
+	width: 100%;
+	height: calc(100% - 12vh);
+}
+	#jsFail {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin: 0;
+		transform: translate(-50%, -50%);
+		width: 100%;
+		text-align: center;
+	}

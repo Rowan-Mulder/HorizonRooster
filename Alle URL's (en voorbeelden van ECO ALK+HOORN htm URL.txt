@@ -1,0 +1,170 @@
+Notities:																						  (c        / t     )
+	Maak uitzondering voor Alkmaar URL's														  (leerling / docent)
+		Zie voorbeeld:									 $sector $locatie                  $week  $ld
+			Purmerend
+				https://rooster.horizoncollege.nl/rstr/  PUR  /  Rooster%20ECO_S&B_W&E  /  36  /  t   /  t00008.htm
+			Alkmaar
+				https://rooster.horizoncollege.nl/rstr/  ECO  /  AMR/400-ECO/Roosters   /  c   /  36  /  c00008.htm
+			Hoorn
+				https://rooster.horizoncollege.nl/rstr/  ECO  /  HRN/Roosters           /  36  /  c   /  c00008.htm
+			Heerhugowaard
+				https://rooster.horizoncollege.nl/rstr/  H&D  /  HHW/560-HM/Roosters    /  36  /  c   /  c00008.htm
+
+School
+	Plaats
+		$Sector
+			$Locatie
+
+Horizon College
+	Heerhugowaard
+		Handel & Dienstverlening (H&D)
+			Brood & banket (HHW/540-BB)
+			Detailhandel (HHW/510-Detailhandel)
+			Facilitaire Dienstverlening (HHW/570-FD)
+			Haarmode (HHW/560-HM)
+			Handel & Transport (HHW/520-Handel TR)
+			Horeca (HHW/550-HOR)
+		Techniek (TEC)
+			AVO (HHW/Techniek AVO)
+			Bouw & Infra (HHW/810-Techniek BI Bouw en infra)
+			Bouw (Timmeren en Metselen) (HHW/810-Techniek BI Timmeren en metselen)
+			Elektrotechniek (HHW/820-Techniek EI ELE)
+			Installatietechniek (HHW/830-Techniek EI INST)
+			Hout & Meubel (HHW/812-Techniek BI HM)
+			Motorvoertuigentechniek (HHW/850-Techniek VT MVT)
+			Schilderen (HHW/813-Techniek BI VRF)
+			Sign / DTP (HHW/814-Techniek SIGN en DTP)
+			Tweewielertechniek (HHW/853-Techniek VT TWT)
+			Werktuigbouwkunde (HHW/840-Techniek WTB)
+		Welzijn en Entree (W&E)
+			(algemeen rooster) (HHW/681-W&E)
+	Alkmaar
+		Economie (ECO)
+			(algemeen rooster) (AMR/400-ECO)
+			Uniformberoepen (AMR/451-UB)
+			VAVO (AMR/900-VAVO)
+		Gezondheidszorg (GEZ)
+			Apothekers-, dokters- en tandartsassistenten (AMR/730-AG)
+			Helpende, Verzorgende, Verpleegkunde (AMR/723-724-VenV)
+		Welzijn en Entree (W&E)
+			Welzijn (AMR/600-Welzijn)
+			Entree (AMR/681-Nivea 1)
+			Sport en bewegen (AMR/615-SenB)
+	Hoorn
+		Economie (ECO)
+			(algemeen rooster) (HRN)
+		Gezondheidszorg (GEZ)
+			Helpende, Verzorgende, Verpleegkunde (HRN)
+		Handel & Dienstverlening (H&D)
+			Detailhandel (HRN)
+		Techniek (TEC)
+			(algemeen rooster) (HRN/800-Techniek)
+		Welzijn en Entree (W&E)
+			Welzijn (HRN/600-Welzijn)
+			Entree (HRN/681-Niveau 1)
+	Purmerend
+		ECO_S&B_W&E (PUR)
+			(algemeen rooster) (Rooster ECO_S&B_W&E)
+		HRM_H&T_HOR (PUR)
+			(algemeen rooster) (Rooster HRM_H&T_HOR)
+
+
+
+
+
+
+
+
+
+
+Economie
+	Alkmaar
+		https://rooster.horizoncollege.nl/rstr/ECO/AMR/400-ECO/Roosters/default.htm
+		(https://rooster.horizoncollege.nl/rstr/ECO/AMR/400-ECO/Roosters/c/36/c00024.htm)
+		Uniformberoepen
+			https://rooster.horizoncollege.nl/rstr/ECO/AMR/451-UB/Roosters/default.htm
+		VAVO
+			https://rooster.horizoncollege.nl/rstr/ECO/AMR/900-VAVO/Roosters/default.htm
+	Hoorn
+		https://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/default.htm
+		(https://rooster.horizoncollege.nl/rstr/ECO/HRN/Roosters/36/c/c00039.htm)
+
+Gezondheidszorg
+	Alkmaar
+		Apothekers-, dokters- en tandartsassistenten
+			https://rooster.horizoncollege.nl/rstr/GEZ/AMR/730-AG/Roosters/default.htm
+		Helpende, Verzorgende, Verpleegkunde
+			https://rooster.horizoncollege.nl/rstr/GEZ/AMR/723-724-VenV/Roosters/default.htm
+	Hoorn
+		(algemeen rooster)
+			https://rooster.horizoncollege.nl/rstr/GEZ/HRN/Roosters/default.htm
+
+Handel & Dienstverlening
+	Heerhugowaard
+		Brood & banket
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/540-BB/Roosters/default.htm
+		Detailhandel
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/510-Detailhandel/Roosters/default.htm
+		Facilitaire Dienstverlening
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/570-FD/Roosters/default.htm
+		Haarmode
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/560-HM/Roosters/default.htm
+		Handel & Transport
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/520-Handel%20TR/Roosters/default.htm
+		Horeca
+			https://rooster.horizoncollege.nl/rstr/H&D/HHW/550-HOR/Roosters/default.htm
+	Hoorn
+		Detailhandel
+			https://rooster.horizoncollege.nl/rstr/H&D/HRN/Roosters/default.htm
+
+Purmerend
+	Rooster ECO_S&B_W&E
+		(algemeen rooster)
+			https://rooster.horizoncollege.nl/rstr/PUR/Rooster%20ECO_S&B_W&E/default.htm
+	Rooster HRM_H&T_HOR
+		(algemeen rooster)
+			https://rooster.horizoncollege.nl/rstr/PUR/Rooster%20HRM_H&T_HOR/default.htm
+
+Techniek
+	Heerhugowaard
+		AVO
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/Techniek%20AVO/Roosters/default.htm
+		Bouw & Infra
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/810-Techniek%20BI%20Bouw%20en%20infra/Roosters/default.htm
+		Bouw (Timmeren en Metselen)
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/810-Techniek%20BI%20Timmeren%20en%20metselen/Roosters/default.htm
+		Elektrotechniek
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/820-Techniek%20EI%20ELE/Roosters/default.htm
+		Installatietechniek
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/830-Techniek%20EI%20INST/Roosters/default.htm
+		Hout & Meubel
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/812-Techniek%20BI%20HM/Roosters/default.htm
+		Motorvoertuigentechniek
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/850-Techniek%20VT%20MVT/Roosters/default.htm
+		Schilderen
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/813-Techniek%20BI%20VRF/Roosters/default.htm
+		Sign / DTP
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/814-Techniek%20SIGN%20en%20DTP/Roosters/default.htm
+		Tweewielertechniek
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/853-Techniek%20VT%20TWT/Roosters/default.htm
+		Werktuigbouwkunde
+			https://rooster.horizoncollege.nl/rstr/TEC/HHW/840-Techniek%20WTB/Roosters/default.htm
+	Hoorn
+		(algemeen rooster)
+			https://rooster.horizoncollege.nl/rstr/TEC/HRN/800-Techniek/default.htm
+
+Alkmaar
+	Welzijn
+		https://rooster.horizoncollege.nl/rstr/W&E/AMR/600-Welzijn/Roosters/default.htm
+	Entree
+		https://rooster.horizoncollege.nl/rstr/W&E/AMR/681-Niveau%201/Roosters/default.htm
+	Sport en bewegen
+		https://rooster.horizoncollege.nl/rstr/W&E/AMR/615-SenB/Roosters/default.htm
+Heerhugowaard
+	Welzijn en Entree
+		https://rooster.horizoncollege.nl/rstr/W&E/HHW/681-W&E/Roosters/default.htm
+Hoorn
+	Welzijn
+		https://rooster.horizoncollege.nl/rstr/W&E/HRN/600-Welzijn/Roosters/default.htm
+	Entree
+		https://rooster.horizoncollege.nl/rstr/W&E/HRN/681-Niveau%201/Roosters/default.htm

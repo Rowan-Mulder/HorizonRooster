@@ -1,0 +1,5 @@
+TO-DO's:
+- Optie om cookie te verwijderen om een andere klas/docent te kiezen
+- Formulier met CSS opmaken. (Bootstrap met selectpicker?)
+- Laat voorlopig een custom melding zien als een rooster niet beschikbaar is
+- Probeer onjuiste oude roosters, die met hetzelfde roosternummer niet hetzelfde rooster laten zien, voorlopig te verbergen

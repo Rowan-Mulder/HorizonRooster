@@ -1,0 +1,242 @@
+{
+	"locatie": [
+		{
+			"naam": "Alkmaar",
+			"code": "ALK",
+			"sector": [
+				{
+					"naam": "Economie",
+					"code": "ECO",
+					"rooster": [
+						{
+							"naam": "(algemeen rooster)",
+							"code": "AMR/400-ECO"
+						},
+						{
+							"naam": "Uniformberoepen",
+							"code": "AMR/451-UB"
+						},
+						{
+							"naam": "VAVO",
+							"code": "AMR/900-VAVO"
+						}
+					]
+				},
+				{
+					"naam": "Gezondheidszorg",
+					"code": "GEZ",
+					"rooster": [
+						{
+							"naam": "Apothekers-, dokters- en tandartsassistenten",
+							"code": "AMR/730-AG"
+						},
+						{
+							"naam": "Helpende, Verzorgende, Verpleegkunde",
+							"code": "AMR/723-724-VenV"
+						}
+					]
+				},
+				{
+					"naam": "Welzijn en Entree",
+					"code": "W&E",
+					"rooster": [
+						{
+							"naam": "Welzijn",
+							"code": "AMR/600-Welzijn"
+						},
+						{
+							"naam": "Entree",
+							"code": "AMR/681-Niveau 1"
+						},
+						{
+							"naam": "Sport en bewegen",
+							"code": "AMR/615-SenB"
+						}
+					]
+				}
+			]
+		},
+		{
+			"naam": "Heerhugowaard",
+			"code": "HHW",
+			"sector": [
+				{
+					"naam": "Handel & Dienstverlening",
+					"code": "H&D",
+					"rooster": [
+						{
+							"naam": "Brood & banket",
+							"code": "HHW/540-BB"
+						},
+						{
+							"naam": "Detailhandel",
+							"code": "HHW/510-Detailhandel"
+						},
+						{
+							"naam": "Facilitaire Dienstverlening",
+							"code": "HHW/570-FD"
+						},
+						{
+							"naam": "Haarmode",
+							"code": "HHW/560-HM"
+						},
+						{
+							"naam": "Handel & Transport",
+							"code": "HHW/520-Handel TR"
+						},
+						{
+							"naam": "Horeca",
+							"code": "HHW/550-HOR"
+						}
+					]
+				},
+				{
+					"naam": "Techniek",
+					"code": "TEC",
+					"rooster": [
+						{
+							"naam": "AVO",
+							"code": "HHW/Techniek AVO"
+						},
+						{
+							"naam": "Bouw & Infra",
+							"code": "HHW/810-Techniek BI Bouw en infra"
+						},
+						{
+							"naam": "Bouw (Timmeren en Metselen)",
+							"code": "HHW/810-Techniek BI Timmeren en metselen"
+						},
+						{
+							"naam": "Elektrotechniek",
+							"code": "HHW/820-Techniek EI ELE"
+						},
+						{
+							"naam": "Installatietechniek",
+							"code": "HHW/830-Techniek EI INST"
+						},
+						{
+							"naam": "Hout & Meubel",
+							"code": "HHW/812-Techniek BI HM"
+						},
+						{
+							"naam": "Motorvoertuigentechniek",
+							"code": "HHW/850-Techniek VT MVT"
+						},
+						{
+							"naam": "Schilderen",
+							"code": "HHW/813-Techniek BI VRF"
+						},
+						{
+							"naam": "Sign / DTP",
+							"code": "HHW/814-Techniek SIGN en DTP"
+						},
+						{
+							"naam": "Tweewielertechniek",
+							"code": "HHW/853-Techniek VT TWT"
+						},
+						{
+							"naam": "Werktuigbouwkunde",
+							"code": "HHW/840-Techniek WTB"
+						}
+					]
+				},
+				{
+					"naam": "Welzijn en Entree",
+					"code": "W&E",
+					"rooster": [
+						{
+							"naam": "Welzijn en Entree",
+							"code": "HHW/681-W&E"
+						}
+					]
+				}
+			]
+		},
+		{
+			"naam": "Hoorn",
+			"code": "HRN",
+			"sector": [
+				{
+					"naam": "Economie",
+					"code": "ECO",
+					"rooster": [
+						{
+							"naam": "(algemeen rooster)",
+							"code": "HRN"
+						}
+					]
+				},
+				{
+					"naam": "Gezondheidszorg",
+					"code": "GEZ",
+					"rooster": [
+						{
+							"naam": "Helpende, Verzorgende, Verpleegkunde",
+							"code": "HRN"
+						}
+					]
+				},
+				{
+					"naam": "Handel & Dienstverlening",
+					"code": "H&D",
+					"rooster": [
+						{
+							"naam": "Detailhandel",
+							"code": "HRN"
+						}
+					]
+				},
+				{
+					"naam": "Techniek",
+					"code": "TEC",
+					"rooster": [
+						{
+							"naam": "(algemeen rooster)",
+							"code": "HRN/800-Techniek"
+						}
+					]
+				},
+				{
+					"naam": "Welzijn en Entree",
+					"code": "W&E",
+					"rooster": [
+						{
+							"naam": "Welzijn",
+							"code": "HRN/600-Welzijn"
+						},
+						{
+							"naam": "Entree",
+							"code": "HRN/681-Niveau 1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"naam": "Purmerend",
+			"code": "PUR",
+			"sector": [
+				{
+					"naam": "ECO_S&B_W&E",
+					"code": "PUR",
+					"rooster": [
+						{
+							"naam": "(algemeen rooster)",
+							"code": "Rooster ECO_S&B_W&E"
+						}
+					]
+				},
+				{
+					"naam": "HRM_H&T_HOR",
+					"code": "PUR",
+					"rooster": [
+						{
+							"naam": "(algemeen rooster)",
+							"code": "Rooster HRM_H&T_HOR"
+						}
+                    ]
+                }
+			]
+		}
+	]
+}
