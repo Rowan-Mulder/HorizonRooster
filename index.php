@@ -3,8 +3,9 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="author" content="Rowan Mulder">
-		<meta name="description" content="Rooster"><!--TODO: Voeg eventueel hier ook de naam van het rooster toe, zoals HEITO19AO-A-->
-		<title>Rooster</title><!--TODO: Voeg eventueel hier ook de naam van het rooster toe, zoals HEITO19AO-A-->
+		<meta name="description" content="Rooster">
+		<!--TODO: Voeg eventueel in de description+title ook de naam van het rooster toe, zoals HEITO19AO-A-->
+		<title>Rooster</title>
 		<link href="style.css" type="text/css" rel="stylesheet">
 		<link href="images/Favicon.jpg" type="image/jpg" rel="icon">
 		<?php
