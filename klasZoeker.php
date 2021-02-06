@@ -20,14 +20,13 @@ if (empty($sector) || empty($rooster)) {
 	return;
 }
 
-// URL encoding opgelost met str_replace(), want urlencode() zijn spatievervanging naar '+' wordt niet geaccepteerd door de server. van horizoncollege.
+// URL encoding opgelost met str_replace(), want urlencode() zijn spatievervanging naar '+' wordt niet geaccepteerd door de server van horizoncollege.
 // Bij roosters van Purmerend (locatie 3) wordt '/Rooster' niet gebruikt.
 if ($_GET['locatie'] == 3) {
 	$url = 'https://rooster.horizoncollege.nl/rstr/' . str_replace(' ', '%20', $sector) . '/' . str_replace(' ', '%20', $rooster) . '/frames/navbar.htm';
 } else {
 	$url = 'https://rooster.horizoncollege.nl/rstr/' . str_replace(' ', '%20', $sector) . '/' . str_replace(' ', '%20', $rooster) . '/Roosters/frames/navbar.htm';
 }
-
 
 $html = file_get_contents($url);
 
