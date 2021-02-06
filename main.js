@@ -23,10 +23,10 @@ function WeekSet() {
 	CorrectLeadingZeros();
 	
 	if (locatie != "ALK") {
-		//																																						  https://rooster.horizoncollege.nl/rstr/    ECO       /    HRN        /Roosters/    39         /    c                  /    c                 000           36          .htm
-		document.getElementById("embeddedWebpage").innerHTML = "<iframe id=\"inlineFrame\" width=\"100%\" height=\"100%\" title=\"Rooster Horizon College\" src=\"https://rooster.horizoncollege.nl/rstr/" + sector + "/" + rooster + "/Roosters/" + weekNum + "/" + studentOfDocent + "/" + studentOfDocent + leadingZero + classNum + ".htm\" frameborder=\"0\"></iframe>";
+		//																																						  https://rooster.horizoncollege.nl/rstr/    ECO       /    HRN        /Roosters/    09                                     /    c                  /    c                 000           36          .htm
+		document.getElementById("embeddedWebpage").innerHTML = "<iframe id=\"inlineFrame\" width=\"100%\" height=\"100%\" title=\"Rooster Horizon College\" src=\"https://rooster.horizoncollege.nl/rstr/" + sector + "/" + rooster + "/Roosters/" + (weekNum + "").padStart(2, "0") + "/" + studentOfDocent + "/" + studentOfDocent + leadingZero + classNum + ".htm\" frameborder=\"0\"></iframe>";
 	} else {
-		document.getElementById("embeddedWebpage").innerHTML = "<iframe id=\"inlineFrame\" width=\"100%\" height=\"100%\" title=\"Rooster Horizon College\" src=\"https://rooster.horizoncollege.nl/rstr/" + sector + "/" + rooster + "/Roosters/" + studentOfDocent + "/" + weekNum + "/" + studentOfDocent + leadingZero + classNum + ".htm\" frameborder=\"0\"></iframe>";
+		document.getElementById("embeddedWebpage").innerHTML = "<iframe id=\"inlineFrame\" width=\"100%\" height=\"100%\" title=\"Rooster Horizon College\" src=\"https://rooster.horizoncollege.nl/rstr/" + sector + "/" + rooster + "/Roosters/" + studentOfDocent + "/" + (weekNum + "").padStart(2, "0") + "/" + studentOfDocent + leadingZero + classNum + ".htm\" frameborder=\"0\"></iframe>";
 	}
 }
 
