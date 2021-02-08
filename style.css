@@ -1,7 +1,7 @@
 body {
 	font-family: Rubik, Arial;
 	margin: 0;
-	/*overflow: hidden;*/
+	overflow: hidden;
 }
 main {
 	display: flex;
@@ -56,7 +56,7 @@ main {
 #embeddedWebpage {
 	position: absolute;
 	width: 100%;
-	height: calc(100% - 12vh);
+	height: calc(100% - 10vh);
 }
 	#jsFail {
 		position: absolute;
