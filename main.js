@@ -51,3 +51,14 @@ function CorrectLeadingZeros() {
 function DeSelect() {
 	window.getSelection().removeAllRanges();
 }
+
+document.addEventListener('keydown', function(event) {
+    switch(event.key) {
+        case "ArrowLeft":
+            WeekBackward();
+            break;
+        case "ArrowRight":
+            WeekForward();
+            break;
+    }
+});
