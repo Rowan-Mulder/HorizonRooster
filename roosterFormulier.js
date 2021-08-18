@@ -118,7 +118,7 @@ async function initKlasOfDocentRooster(response) {
 		option.value = klasOfDocent[0][i]
 		
 		// H19AO is als standaard geselecteerd
-		if (option.text == 'H19AO') {
+		if (option.text == 'H19AO' || option.text == 'H19AO-A' || option.text == 'HEITO19AO-A' || option.text == 'HEITO19AO') {
 			option.selected = true;
 		}
 		
