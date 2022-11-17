@@ -85,5 +85,7 @@
 				</table>
 			</form>
 		</main>
-	</body>
+
+        <script>alert("Vanwege de komst van het intranet ConnectMe zijn koppelingen met het rooster helaas niet meer mogelijk.")</script>
+    </body>
 </html>
