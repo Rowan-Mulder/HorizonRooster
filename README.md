@@ -1,5 +1,6 @@
 # HorizonRooster
 *Laad automatisch jouw eenmalig geselecteerde Horizon College rooster.*
+**Vanwege de komst van het intranet ConnectMe zijn koppelingen met het rooster helaas niet meer mogelijk.**
 
 <table>
   <tbody>
